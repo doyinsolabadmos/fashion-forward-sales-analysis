@@ -33,12 +33,11 @@ The dataset was examined and prepared before analysis, The process involved:
 
 ### Dashboard
 An interactive Excel dashboard was developed to present the findings. It incorporated key performance indicators, charts and interactive slicers for exploring the data by selected categories.
-![Fashion Forward Dashboard]
-(images/
-Fashion-forward-dashboard.PNG)
+![Fashion Forward Dashboard](images/Fashion-forward-dashboard.PNG)
 
 ### Key Findings
-The project examined patterns in product demand, customer purchasing behaviour, geographical sales distribution and overall business performance. The specific numerical findings and business insights are presented in the accompanying Excel workbook and project report
+The project examined patterns in product demand, customer purchasing behaviour, geographical sales distribution and overall business performance. The specific numerical findings and business insights are presented in the accompanying Excel workbook and project report.
+[View Project Report (PDF)](report/Fashion_Forward_Project_Report.pdf)
 
 ### Skills Demonstrated
 - Data Cleaning
